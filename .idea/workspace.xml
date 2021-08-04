@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4a68df3-a3f2-4c52-8833-aa6c291b6bc7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1st2imiSBAre9GyXHAzulYBNqKl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../seckill-spring" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23908046" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\WorkSpace\java\ee\my-university\api-commons\src\main\java\com\my\university\common\message" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyInformationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="my-information" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.my.university.information.MyInformationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a68df3-a3f2-4c52-8833-aa6c291b6bc7" name="Default Changelist" comment="" />
+      <created>1621677694477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621677694477</updated>
+      <workItem from="1621677700138" duration="1353000" />
+      <workItem from="1621745405100" duration="3200000" />
+      <workItem from="1622524682191" duration="731000" />
+      <workItem from="1622525459119" duration="1735000" />
+      <workItem from="1622531320677" duration="1241000" />
+      <workItem from="1622543562867" duration="2665000" />
+      <workItem from="1622595988074" duration="7520000" />
+      <workItem from="1622615989649" duration="3387000" />
+      <workItem from="1622623652346" duration="2230000" />
+      <workItem from="1622720403200" duration="629000" />
+      <workItem from="1623315737038" duration="589000" />
+      <workItem from="1623411105965" duration="1113000" />
+      <workItem from="1623486811778" duration="1143000" />
+      <workItem from="1623663888801" duration="12000" />
+      <workItem from="1626712075526" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
